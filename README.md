@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dylan-1006
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python
-- 💞️ I’m not looking to collaborate for now cuz I have yet to master a programming language
+- 💞️ I’m not looking to collaborate for now 
 - 📫 How to reach me : eu.dylan@gmail.com
 
 <!---
