@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dylan-1006
+- 👋 Hi, I’m Dylan. Self-taught python but going to major in Computer Science soon
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python
 - 💞️ I’m not looking to collaborate for now 
