@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dylan. Self-taught python but going to major in Computer Science soon
+- 👋 Hi, I’m Dylan. Freshman in Computer Science.
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning mobile & web development
 - 💞️ I’m not looking to collaborate for now 
 - 📫 How to reach me : eu.dylan@gmail.com
 
