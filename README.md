@@ -4,7 +4,4 @@
 - 💞️ I’m not looking to collaborate for now but feel free to contact me if there are any available projects
 - 📫 How to reach me : eu.dylan@gmail.com
 
-<!---
-dylan-1006/dylan-1006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-1006)](https://github.com/anuraghazra/github-readme-stats)
