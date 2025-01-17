@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Dylan, a sophomore in Computer Science<br>👀 I’m currently studying at the University of Birmingham<br>🌱 I’m interested in mobile & web development, AI & blockchain<br>📫 How to reach me: eu.dylan@gmail.com<br><br>
+👋 Hi, I’m Dylan, a final year student in Computer Science<br>👀 I’m currently studying at the University of Birmingham<br>🌱 I’m interested in mobile & web development, data science & AI <br>📫 How to reach me: eu.dylan@gmail.com<br><br>
 
 
 ## 🌐 Socials:
